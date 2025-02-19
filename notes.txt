@@ -23,3 +23,13 @@ Practice Quiz: Visual Studio Code and .NET Integration
 3. What role does Visual Studio Code play in .NET projects?
     It provides essential tools for writting, running, and debugging .NET projects
 
+Practice Quiz: Setting Up Your .NET Development Environment
+
+1. What is the first step in installing the .NET SDK on your machine? 
+    Download the installer from the official .NET website
+
+2. Which extension is recommended in Visual Studio Code to help manage .NET projects? 
+    C# Dev Kit
+
+3. What is a crucial step when setting up a .NET development environment in Visual Studio Code?
+    Installing essential extentions like C# Dev Kit
