@@ -33,3 +33,26 @@ Practice Quiz: Setting Up Your .NET Development Environment
 
 3. What is a crucial step when setting up a .NET development environment in Visual Studio Code?
     Installing essential extentions like C# Dev Kit
+
+COMANDOS:
+    dotnet new console -n NomeDoProjeto
+    dotnet new webapi -n NomeDaAPI
+    dotnet new classlib -n NomeDaBiblioteca
+    dotnet new sln -n NomeDaSolucao
+    dotnet restore
+    dotnet build
+    dotnet run
+    dotnet list package
+    dotnet sln NomeDaSolucao.sln add Caminho/DoProjeto.csproj
+    dotnet sln NomeDaSolucao.sln remove Caminho/DoProjeto.csproj
+    dotnet add package NomeDoPacote
+    dotnet restore
+    dotnet list package --outdated
+    dotnet add package NomeDoPacote --version x.x.x
+    dotnet publish -c Release -o pastaDestino
+    dotnet publish -c Release -o ./publicado
+    dotnet publish -r win-x64 --self-contained true -p:PublishSingleFile=true
+    dotnet --version
+    dotnet --info
+    dotnet new list
+    dotnet clean
