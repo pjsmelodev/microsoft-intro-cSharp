@@ -11,3 +11,15 @@ Practice Quiz: Introduction to .NET and Visual Studio Code
 3. Explain how Visual Studio Code integrates with the .NET environment.
     Visual Studio Code allows for bebugging, runing, and testing .NET applications directly
     VIsual Studio Code supports .NET development through extensions like C# and .NET Core
+
+Practice Quiz: Visual Studio Code and .NET Integration
+
+1. What is a key feature of Visual Studio Code that enhances developers' productivity?
+    IntelliSense provides smart code completions and error detection
+
+2. How does Visual Studio Code integrate into the .NET development workflow?
+    It allows project setup, coding, debugging, and deployment in one environment
+
+3. What role does Visual Studio Code play in .NET projects?
+    It provides essential tools for writting, running, and debugging .NET projects
+
