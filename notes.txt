@@ -1,0 +1,13 @@
+Practice Quiz: Introduction to .NET and Visual Studio Code
+
+1. How do front-end engineers use programming skills in their day-to-day work?
+    By writing code to style web pages and make them visually appealing
+    By creating interactive elements on a website, like forms and buttons
+
+2. Explain the .NET ecosystem, including its significance and different versions.
+    The .NET ecosystem inclues .NET Framework, .NET Core, and .NET 5+ to support different use cases
+    The .NET ecosystem supports a wide range of applications, including web, desktop, and mobile
+
+3. Explain how Visual Studio Code integrates with the .NET environment.
+    Visual Studio Code allows for bebugging, runing, and testing .NET applications directly
+    VIsual Studio Code supports .NET development through extensions like C# and .NET Core
