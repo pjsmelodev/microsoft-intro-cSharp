@@ -56,3 +56,14 @@ COMANDOS:
     dotnet --info
     dotnet new list
     dotnet clean
+
+Practice Quiz: Initiating a New .NET Project
+
+1. What is the first step to creating a new .NET project using Visual Studio Code?
+    Open the command palette and search for .NET new project
+
+2. What file in a .NET project contains the project configuration, including how to handle running, testing, and building the project?
+    The .csproj file
+
+3. Which command is used in the terminal to create a new .NET project?
+    dotnet new
