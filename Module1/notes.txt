@@ -1,0 +1,118 @@
+Practice Quiz: Introduction to .NET and Visual Studio Code
+
+1. How do front-end engineers use programming skills in their day-to-day work?
+    By writing code to style web pages and make them visually appealing
+    By creating interactive elements on a website, like forms and buttons
+
+2. Explain the .NET ecosystem, including its significance and different versions.
+    The .NET ecosystem inclues .NET Framework, .NET Core, and .NET 5+ to support different use cases
+    The .NET ecosystem supports a wide range of applications, including web, desktop, and mobile
+
+3. Explain how Visual Studio Code integrates with the .NET environment.
+    Visual Studio Code allows for bebugging, runing, and testing .NET applications directly
+    VIsual Studio Code supports .NET development through extensions like C# and .NET Core
+
+Practice Quiz: Visual Studio Code and .NET Integration
+
+1. What is a key feature of Visual Studio Code that enhances developers' productivity?
+    IntelliSense provides smart code completions and error detection
+
+2. How does Visual Studio Code integrate into the .NET development workflow?
+    It allows project setup, coding, debugging, and deployment in one environment
+
+3. What role does Visual Studio Code play in .NET projects?
+    It provides essential tools for writting, running, and debugging .NET projects
+
+Practice Quiz: Setting Up Your .NET Development Environment
+
+1. What is the first step in installing the .NET SDK on your machine? 
+    Download the installer from the official .NET website
+
+2. Which extension is recommended in Visual Studio Code to help manage .NET projects? 
+    C# Dev Kit
+
+3. What is a crucial step when setting up a .NET development environment in Visual Studio Code?
+    Installing essential extentions like C# Dev Kit
+
+COMANDOS:
+    dotnet new console -n NomeDoProjeto
+    dotnet new webapi -n NomeDaAPI
+    dotnet new classlib -n NomeDaBiblioteca
+    dotnet new sln -n NomeDaSolucao
+    dotnet restore
+    dotnet build
+    dotnet run
+    dotnet list package
+    dotnet sln NomeDaSolucao.sln add Caminho/DoProjeto.csproj
+    dotnet sln NomeDaSolucao.sln remove Caminho/DoProjeto.csproj
+    dotnet add package NomeDoPacote
+    dotnet restore
+    dotnet list package --outdated
+    dotnet add package NomeDoPacote --version x.x.x
+    dotnet publish -c Release -o pastaDestino
+    dotnet publish -c Release -o ./publicado
+    dotnet publish -r win-x64 --self-contained true -p:PublishSingleFile=true
+    dotnet --version
+    dotnet --info
+    dotnet new list
+    dotnet clean
+
+Practice Quiz: Initiating a New .NET Project
+
+1. What is the first step to creating a new .NET project using Visual Studio Code?
+    Open the command palette and search for .NET new project
+
+2. What file in a .NET project contains the project configuration, including how to handle running, testing, and building the project?
+    The .csproj file
+
+3. Which command is used in the terminal to create a new .NET project?
+    dotnet new
+
+ORGANIZAÇÃO:
+
+Seperation of Concerns: dividir um programa em secções distintas, cada uma responsável por um aspeto ou funcionalidade específica da app
+
+/src -> pasta para código não compilado num projeto
+
+Practice Quiz: Organizing .NET Projects
+
+1. Which file in a .NET project typically serves as the entry point for the application?
+    Program.cs
+
+2. What is the primary goal of using naming conventions for files and directories in a .NET project?
+    To enhance readability and maiintainability
+
+3. What is the role of the bin folder in a .NET project?
+    It stores the compiled code of the application
+
+Graded Quiz: Foundations of .NET Development and Visual Studio Code Integration
+
+1. What is the primary purpose of the .NET environment?
+    To provide a platform for building and running applications across different platforms
+
+2. How does Visual Studio Code support .NET projects?
+    It provides a lightweight, cross-platform editor with extensions for .NET development
+
+3. What tool must you first install to begin developing .NET applications on a new system?
+    .NET SDK
+
+4. What command-line tool is essential for creating new .NET projects?
+    .NET CLI for managing and creating projects
+
+5. Which folder in a .NET project typically contains compiled output files?
+    Bin folder for storing compiled output files
+
+6. How do you clean the build output of a .NET project using CLI?
+    It specifies external packages and libraries required for the project
+
+7. How do you clean the build output of a .NET project using CLI?
+    Use the dotnet clean command
+
+8. Which extension is essential for .NET development in Visual Studio Code?
+    C# Dev Kit extension
+
+9. What type of files are found in the obj folder in a .NET project?
+    Intermidiate files generated during the build process
+
+10. Why is following best practices for file organization in .NET projects important?
+    It helps maintain code readability and simplifies project management
