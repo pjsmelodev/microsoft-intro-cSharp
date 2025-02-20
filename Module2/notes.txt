@@ -18,3 +18,14 @@
 
 7. What is a method in programming?
     A block of code designed to perform a specific task
+
+Practice Quiz: Logical Thinking in Programming
+
+1. Which of the following best describes the principle of deductive reasoning in programming?
+    Drawing a specific conclusion based on general premises
+
+2. How does logical thinking help in debugging a function that calculates the square of a number incorrectly?
+    It helps identify where the function is likely going wrong by applying deductive reasoning
+
+3. Which logical thinking technique is most useful for integrating new features, like a "dark mode," into an existing application?
+    Using deductive reasoning to determine how new features will interact with existing components
