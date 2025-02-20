@@ -29,3 +29,14 @@ Practice Quiz: Logical Thinking in Programming
 
 3. Which logical thinking technique is most useful for integrating new features, like a "dark mode," into an existing application?
     Using deductive reasoning to determine how new features will interact with existing components
+
+Practice Quiz: Introduction to Debugging
+
+1. Which of the following best describes a logical error in a program?
+    A mistake in the program that produces incorrect results but does not crash the program
+
+2. When debugging a piece of code, what is the primary use of breakpoints?
+    To pause the execution of code at a specific point to inspect the state of the program
+
+3. Which tool in Visual Studio Code is used to inspect variable values during debugging?
+    The Debugger Inspector
