@@ -4,7 +4,7 @@
 
     public static int Add() {
         return number1 + number2;
-}
+    }
 
     static void Main(string[] args) {
         number1 = 5;
@@ -12,6 +12,6 @@
 
         int result = Add();
         Console.WriteLine("Sum: " + result);
-}
+    }
 }
 
