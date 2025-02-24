@@ -40,3 +40,13 @@ Practice Quiz: Introduction to Debugging
 
 3. Which tool in Visual Studio Code is used to inspect variable values during debugging?
     The Debugger Inspector
+
+QUIZ:
+1. What is the purpose of the Main method in a C# program?
+    It serves as the entry point for program execution
+
+2. Which of the following is a valid way to display text to the console in C#?
+    Console.WriteLine("Hello, World!");
+
+3. What does the following C# code do?
+    It prints numbers 1 through 5
