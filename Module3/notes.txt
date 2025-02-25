@@ -9,3 +9,13 @@ Abstraction: Simplifying Complexity
 Abstract Classes: Define a common code base with some standard methods that include implementation details and some abstract methods without implementation.
 
 Interfaces: Define a contract specifying what methods a class must implement without providing details.
+
+PRACTICE QUIZ:
+1. What are the fundamental components of Object-Oriented Programming (OOP)?
+    Objects and Classes
+
+2. What is a class in Object-Oriented Programming (OOP)?
+    A blueprint or template that defines shared characteristics and behaviours for a group of entities
+
+3. How does encapsulation protect the internal state of an object in OOP?
+    By bundling methods and data into a class and restrcting access to some components
