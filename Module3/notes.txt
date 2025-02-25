@@ -19,3 +19,26 @@ PRACTICE QUIZ:
 
 3. How does encapsulation protect the internal state of an object in OOP?
     By bundling methods and data into a class and restrcting access to some components
+
+Key Benefits of Inheritance 
+    Code reusability: Derived classes can use the existing code of the base class without rewriting it.
+
+    Extended functionality: Developers can add new methods or modify existing ones in the derived classes without affecting the base class.
+
+By Using Polymorphism, Developers Can
+
+    Extend the base class by adding methods and attributes.
+
+    Override methods to create specific behaviors for different objects.
+
+    Promote code reuse without sacrificing flexibility.
+
+PRACTICE QUIZ:
+1. What is the primary purpose of inheritance in object-oriented programming (OOP)?
+    To allow new classes to reuse or extend the functionality of existing classes
+
+2. How does polymorphism benefit developers in object-oriented programming?
+    By allowing a single method name to perform different tasks based on the object it acts on
+
+3. How do inheritance and polymorphism work together in OOP?
+    Inheritance provides a base structure for a class, while polymorphism allows those classes to have different behaviors
