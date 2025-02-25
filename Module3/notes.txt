@@ -42,3 +42,13 @@ PRACTICE QUIZ:
 
 3. How do inheritance and polymorphism work together in OOP?
     Inheritance provides a base structure for a class, while polymorphism allows those classes to have different behaviors
+
+PRACTICE QUIZ:
+1. Which of the following best describes creating a derived class in C#?
+    Use an access modifier followed by the class name and a colon, then the base class name
+
+2. How do developers use polymorphism through method overriding in C#?
+    By creating a virtual method in the base class and overriding it in the derived classes
+
+3. Which scenario demonstrates both inheritance and polymorphism in a C# program?
+    A base class Instrument has a virtual melhod Play(), and a derived class Piano overrides the Play() method to provide specidif implementation
