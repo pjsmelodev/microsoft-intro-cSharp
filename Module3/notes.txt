@@ -1,0 +1,11 @@
+Encapsulation: Protecting Internal State
+Private: Restricts access to the class, ensuring that data cannot be altered directly from outside the class.
+
+Protected: Allows access to the class and its subclasses, enabling inherited classes to use and extend the data and methods.
+
+Public: Exposes data and methods to any application part, allowing wider access.
+
+Abstraction: Simplifying Complexity
+Abstract Classes: Define a common code base with some standard methods that include implementation details and some abstract methods without implementation.
+
+Interfaces: Define a contract specifying what methods a class must implement without providing details.
