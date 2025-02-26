@@ -52,3 +52,21 @@ PRACTICE QUIZ:
 
 3. Which scenario demonstrates both inheritance and polymorphism in a C# program?
     A base class Instrument has a virtual melhod Play(), and a derived class Piano overrides the Play() method to provide specidif implementation
+
+Categories of Design Patterns
+Design patterns are generally grouped into three main categories:
+
+1. Creational Patterns: focus on object creation mechanisms, providing solutions that enhance flexibility and reuse of code.
+
+Singleton pattern: This pattern ensures that a class has only one instance and provides a global point of access to that instance. It is useful for managing shared resources, such as a single database connection in an application.
+
+Factory pattern encapsulates the object creation process in a separate factory class or method. It allows developers to create objects without specifying the exact class of object that will be created, thereby supporting flexibility and scalability.
+
+2. Structural patterns: deal with the composition of classes or objects, focusing on how objects are interconnected to form larger structures.
+
+Adapter pattern: This pattern allows incompatible interfaces to work together. It involves creating an adapter class that serves as a bridge between two incompatible classes, enabling them to communicate and function cohesively within the application.
+
+3. Behavioral patterns: define how objects interact and communicate with each other, focusing on assigning responsibilities between objects.
+
+Observer pattern: A design pattern in which one object (the subject) notifies a list of observer objects about changes in its state. This is particularly useful in scenarios like a user interface that needs to update automatically when the underlying data changes.
+
