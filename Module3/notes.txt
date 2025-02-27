@@ -81,3 +81,16 @@ PRACTICE ASSIGNMENT:
 3. Which design pattern should be used when you want to create objects without exposing the instantiation logic to the client?
     Factory Pattern
 
+PRACTICE ASSIGNMENT:
+
+1. What is the primary purpose of a class in C#?
+    To serve as a blueprint for creating objects
+
+2. Which of the following correctly demonstrates object instantiation in C#?
+    Person neighbor = new Person("John Doe", 30);
+
+3. What is the purpose of a constructor in a C# class?
+    To initialize the properties of an object when it is created
+
+4. How can you access a public property of an instantiated object in C#?
+    Using dot notation, like objectName.propertyName
