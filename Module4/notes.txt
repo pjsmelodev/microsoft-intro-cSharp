@@ -1,0 +1,5 @@
+ASYNCHRONOUS PROGRAMMING:
+
+    I/O operations
+    network requests
+    improving application responsiveness
