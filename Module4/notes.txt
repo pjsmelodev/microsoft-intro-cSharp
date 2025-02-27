@@ -3,3 +3,24 @@ ASYNCHRONOUS PROGRAMMING:
     I/O operations
     network requests
     improving application responsiveness
+    dealing with back-end services
+
+Challenges of Asynchronous Programming
+While beneficial, asynchronous programming presents challenges, especially in managing concurrency and debugging.
+
+Concurrency management: Handling multiple tasks without causing conflicts can be complex, particularly when tasks depend on each other.
+
+Debugging difficulties: Asynchronous operations can make it harder to trace errors, as tasks run independently of the main flow.
+
+Code readability: With many operations running concurrently, keeping track of what happens when can complicate code maintenance.
+
+PRACTICE QUIZ:
+
+1. What is a key feature of asynchronous programming?
+    Tasks run independently of the main program flow
+
+2. Which of the following is a challenge associated with asynchronous programming?
+    Managing cuncurrency in code
+
+3. How does asynchronous programming handle tasks compared to synchronous programming?
+    Asynchronous programming allows tasks to run in parallel without blocking others, while synchronous programming runs tasks one at the time
