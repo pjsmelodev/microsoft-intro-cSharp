@@ -94,3 +94,35 @@ PRACTICE ASSIGNMENT:
 
 4. How can you access a public property of an instantiated object in C#?
     Using dot notation, like objectName.propertyName
+
+GRADED QUIZ:
+
+1. What is the relationship between classes and objects in OOP?
+    A class is a blueprint, and objects are instances of that class
+
+2. What is the difference between inheritance and polymorphism in OOP?
+    Inheritance allows classes to share attributes, while polymorphism allows methods to have different behaviors depending on the object
+
+3. Which feature of polymorphism is commonly used in C#?
+    Method overriding to provide different implementations in derived classes
+
+4. What problem does the Singleton design pattern solve?
+    It ensures that a class has only one instance throughout the program
+
+5. What is the role of a constructor in object creation?
+    It initializes the properties of an object when it is initialized
+
+6. How does encapsulation help in securing data in OOP?
+    By restrcting direct access to object properties and exposing them through methods
+
+7. Why would a developer use method overriding in C#?
+    To change the behavior of a method in a derived class without affecting the base class
+
+8. How does a constructor differ from other methods in a C# class?
+    It is called automatically when an object is created, and it initializes the object's properties
+
+9. How does an interface differ from a class in C#?
+    An interface defines method signatures without implementation, while a class can provide full method implementation
+
+10. What is a key benefit of using abstraction in object-oriented programming?
+    It simplifies complex systems by hiding their internal workings and exposing only necessary parts
