@@ -37,3 +37,10 @@ PRACTICE QUIZ:
     async Task CallMethodAsynch() {
         await SomeAsyncMethod();
     }
+
+PRACTICAL ASYNCHRONOUS SOLUTIONS:
+    Handling multiple API calls
+    Handle responses efficiently
+    Processing large datasets -> async libraries
+    Async methods that don't black the UI
+    Max system resouces
