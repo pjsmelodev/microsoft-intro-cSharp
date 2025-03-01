@@ -24,3 +24,16 @@ PRACTICE QUIZ:
 
 3. How does asynchronous programming handle tasks compared to synchronous programming?
     Asynchronous programming allows tasks to run in parallel without blocking others, while synchronous programming runs tasks one at the time
+
+PRACTICE QUIZ:
+
+1. What is the purpose of the async keyword in C#?
+    It allows a method to execute without blocking the main thread
+
+2. Which of the following statements about await in C# is correct?
+    It pauses method execution until the awaited task is complete
+
+3. What is the correct way to call an asynchronous method using await in C#?
+    async Task CallMethodAsynch() {
+        await SomeAsyncMethod();
+    }
