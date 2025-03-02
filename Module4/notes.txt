@@ -55,3 +55,14 @@ PRACTICE QUIZ:
 
 3. What is the main purpose of using asynchronous programming in practical applications?
     Asynchronous programming helps keep applications responsive by freeing up the main thread to handle other tasks while waiting for long-running operations
+
+PRACTICE QUIZ:
+
+1. How does asynchronous programming improve modern software development?
+    By allowing multiple tasks to run without blocking the main application
+
+2. Which of the following is an industry example where asynchronous programming improved performance?
+    HH.AI's use of asynchronous programming to fetch patient date and health records simultaneously
+
+3. Why is asynchronous programming essential in modern applications?
+    It improves scalability and reliability by handling multiple tasks without blocking the main application
