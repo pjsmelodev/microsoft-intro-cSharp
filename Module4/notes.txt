@@ -66,3 +66,25 @@ PRACTICE QUIZ:
 
 3. Why is asynchronous programming essential in modern applications?
     It improves scalability and reliability by handling multiple tasks without blocking the main application
+
+CHALLENGES WITH ASYNC
+    Non-linear execution makes it herder to trace tasks
+
+    Errors may not be immediately apparent leading to silent failures
+
+    Cuncurrency issues
+        Tasks that run at the same time can cause race conditions
+
+        Code runs in a different order changing how bugs occur
+
+DEBUGGING
+    User debbuger extension
+
+    Use the Task Explorer extension
+
+    Use Logpoints -> envia informação para o terminal enquanto a app corre
+        Logs variable values and messages to the console
+
+        Get information from asynchronous tasks while they're running
+    
+    Use the call stack tool to track the sequence of method calls
