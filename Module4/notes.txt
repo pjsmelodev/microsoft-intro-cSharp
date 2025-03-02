@@ -44,3 +44,14 @@ PRACTICAL ASYNCHRONOUS SOLUTIONS:
     Processing large datasets -> async libraries
     Async methods that don't black the UI
     Max system resouces
+
+PRACTICE QUIZ:
+
+1. How can asynchronous programming improve application responsiveness?
+    By using methods that don't block the UI
+
+2. What is the key benefit of using asynchronous programming to simultaneously fetch product data and reviews?
+    It improves the application's efficiency by performing both tasks at the same time
+
+3. What is the main purpose of using asynchronous programming in practical applications?
+    Asynchronous programming helps keep applications responsive by freeing up the main thread to handle other tasks while waiting for long-running operations
