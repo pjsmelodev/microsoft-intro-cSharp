@@ -88,3 +88,44 @@ DEBUGGING
         Get information from asynchronous tasks while they're running
     
     Use the call stack tool to track the sequence of method calls
+
+PRACTICE ASSIGNMENT:
+1. Which of the following describes a key challenge when debugging asynchronous code?
+    Non-linear execution makes it harder to trace tasks
+
+2. What debugging technique allows you to inspect the program's state while paused?
+    Breakpoints
+
+3. What is the most effective way to debug asynchronous code in C# using breakpoints?
+    Set a breakpoint before every await keyword to see what the code does before suspending execution
+
+GRADED QUIZ:
+1. What is asynchronous programming?
+    A technique that allows tasks to run independently from the main program flow
+
+2. How does the await keyword work with async in C#?
+    It pauses the method execution untill the awaited tasks completes
+
+3. How does asynchronous programming improve application performance?
+    By allowing to run tasks concurrently without blocking the main thread
+
+4. What happens if one of the tasks in Task.WhenAll fails?
+    The method awaits for other tasks to complete, but failure must be handled
+
+5. How can you prevent errors from crashing an application during asynchronous execution?
+    Implement proper error handling like try-catch blocks
+
+6. How can asynchronous programming help with file processing in a C# program?
+    It allows file operations tobe habdled in the background while the application ramins responsive
+
+7. How does Task.Delay help in testing asynchronous code?
+    It simulates delays in a task to test how the program habdles long-running operations
+
+8. How can you identify if an asynchronous task failed during execution?
+    By checking the task's status or catching an excepetion in a try-catch block
+
+9. What advantage does Task.WhenAll provide when running multiple asynchronous tasks?
+    It allows tasks to run concurrently and waits for all of them to finish
+
+10. How does the Task Explorer extension assist with debugging asynchronous tasks?
+    It helps inspect and monitor the status of running tasks
